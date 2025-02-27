@@ -1,5 +1,5 @@
 tensorflow==2.17.0
-tensorflow-metal==1.2.0  # Updated to available version
+# Updated to available version
 numpy==1.26.4
 opencv-python==4.10.0.84
 kaggle==1.6.17
